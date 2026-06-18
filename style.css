@@ -41,3 +41,33 @@
     min-height: 80vh;
     gap: 30px;
 }
+.problema-textos{
+    flex: 1;
+}
+.problema-titulo{
+ont-size: 3rem;
+    color:rgb(255, 164, 180);
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.problema-paragrafo{
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color: #ff8ac1;
+}
+
+.problema-imagem{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.problema-foto{
+    width: 100%;
+    max-width: 550px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(248, 164, 210, 0.1);
+}
+
